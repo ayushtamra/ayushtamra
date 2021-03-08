@@ -1,4 +1,4 @@
-![]( Untitled design.png )
+![]( GoBeyond.png )
 
 *Here is what you can know about me:*
 
