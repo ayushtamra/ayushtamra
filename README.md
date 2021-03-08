@@ -1,4 +1,4 @@
-![]( ayush.png )
+![]( Untitled design.png )
 
 *Here is what you can know about me:*
 
