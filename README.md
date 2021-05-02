@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 developers! <img src="images and gif/hi1.gif" width="25px"></h2>
+<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 developers! <img src="images and gif/hi1.gif" width="35px"></h2>
 
 ![]( GoBeyond.png )
 
@@ -9,7 +9,7 @@
 * 👯 I’m looking to collaborate on App development
 * 💬 Ask me about Competitive coding and android app development
 * 😄 Pronouns: He/Him/His
-
+<h3 align="center">Connect with me on:</h3>
 <p align="center">
   <a href="https://github.com/ayushtamra">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
@@ -22,5 +22,14 @@
   </a>
 </p>
 
-* ### ⚡ Fun fact: 
-    ### *Everyone is a noob. So don't worry just keep patience and keep hustling*
+<h2 align="center">Download My resume</h2>
+
+<a href="Ayush Tamra Resume.pdf" download>
+    <p align="center">
+    <img src="https://img.shields.io/badge/Ayush's-Resume-brightgreen"/>
+    </p>
+</a>
+
+<h2 align="center"> ⚡ Fun fact </h2>
+    
+<h3 align="center"> Everyone is a noob. So don't worry just keep patience and keep hustling</h3>
