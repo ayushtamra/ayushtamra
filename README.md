@@ -1,7 +1,5 @@
 <h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 developers! <img src="images and gif/hi1.gif" width="35px"></h2>
 
-![]( GoBeyond.png )
-
 ## Here is what you can know about me:
 
 * 🔭 I’m currently working on Opensource
@@ -24,10 +22,12 @@
     
 <h2 align="center">Download My resume</h2>
 <p align="center">
-    <a href="Ayush Tamra Resume.pdf" download>
+    <a href="Ayush Tamra Resume.pdf" download="Ayush Tamra Resume">
         <img src="https://img.shields.io/badge/Ayush's-Resume-brightgreen"/>
     </a>
 </p>
+
+<h2 align="center">My Github stats</h2>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ayushtamra&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ayush Tamra's Github Stats">
 </p>
