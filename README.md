@@ -36,7 +36,7 @@
 </p>
 
 <h2 align="center">My Devpost achievments</h2>
-<p style="margin-left: 200px";>
+<p align="center">
   <img src="https://idemoed.vercel.app/api/wall?username=tamraayush"/>
 </p>
 
