@@ -1,10 +1,13 @@
-<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 developers! <img src="images and gif/hi1.gif" width="35px"></h2>
+<style>
+
+</style>
+# 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 developers! <img src="images and gif/hi1.gif" width="35px">
 
 ## Here is what you can know about me:
 
-* 🔭 I’m currently working on Opensource
-* 🌱 I’m currently learning Web development and AI
-* 👯 I’m looking to collaborate on App development
+* 🔭 I’m currently working on Open source projects and hackathons
+* 🌱 I’m currently learning Web development and problem solving.
+* 👯 I’m looking to collaborate on Android App development.
 * 💬 Ask me about Competitive coding and android app development
 * 😄 Pronouns: He/Him/His
 <h3 align="center">Connect with me on:</h3>
@@ -32,6 +35,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ayushtamra&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ayush Tamra's Github Stats">
 </p>
 
+<h2 align="center">My Devpost achievments</h2>
+<p style="margin-left: 200px";>
+  <img src="https://idemoed.vercel.app/api/wall?username=tamraayush"/>
+</p>
+
 <h2 align="center"> ⚡ Fun fact </h2>
     
-<h3 align="center"> Everyone is a noob. So don't worry just keep patience and keep hustling</h3>
+<h3 align="center"> Everyone is a newbie. So don't worry just keep patience and keep hustling</h3>
