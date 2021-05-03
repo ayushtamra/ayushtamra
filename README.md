@@ -1,7 +1,4 @@
-<style>
-
-</style>
-# 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 developers! <img src="images and gif/hi1.gif" width="35px">
+# 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 developers! 👋
 
 ## Here is what you can know about me:
 
@@ -36,9 +33,18 @@
 </p>
 
 <h2 align="center">My Devpost achievments</h2>
+
 <p align="center">
-  <img src="https://idemoed.vercel.app/api/wall?username=tamraayush"/>
+  <img src="https://idemoed.vercel.app/api/wall?username=tamraayush&level=2"/>
 </p>
+
+<h2 align="center">🏆 My achievments</h2>
+<h3 align="center">👨‍💻 Hackathons (Listed Latest at the top)</h3>
+  <ul align="center">
+    <li>Reached Review 2 in devsoc 2021, in top 40 teams</li>
+    <li>Winner of Winhacks 2021(sponsored by MLH) in the totally not twitter category </li>
+    <li>Winner of echoAR sponsor prize at tartan hacks 2021</li>
+  </ul>
 
 <h2 align="center"> ⚡ Fun fact </h2>
     
