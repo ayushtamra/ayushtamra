@@ -28,14 +28,21 @@
     </a>
 </p>
 
+
 <h2 align="center">My Github stats</h2>
-<p align="center">
+<p>
     <img src="https://github-readme-stats.vercel.app/api?username=ayushtamra&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ayush Tamra's Github Stats"/>
+
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushtamra&layout=compact" alt="Ayush Tamra's Github Stats"/>
+</p>
+
+<!-- <p align="right">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Ayush Tamra's Github Stats"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushtamra" alt="Smiley face">
-</p>
+</p> -->
 
 
 <h2 align="center">My Devpost achievments</h2>
