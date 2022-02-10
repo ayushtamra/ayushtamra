@@ -1,15 +1,9 @@
 # Hello there, fellow developers! 👋
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## Here is what you can know about me:
-
-* 🔭 I’m currently working on Open source projects and hackathons
-* 🌱 I’m currently learning Web development and problem solving.
-* 👯 I’m looking to collaborate on Android App development.
-* 💬 Ask me about Competitive coding and android app development
-* 😄 Pronouns: He/Him/His
-<h3 align="center">Connect with me on:</h3>
-<p align="center">
+<p>My name is Ayush, and I am a undergraduate student from India, I love to learn new technologies and collaborate with people. So where you can see this huge programming, exploration and collaboration? opensource right? I am very passionate about opensource and I love the way how opensource is providing huge opportunities for new developers</p>
+<h3>Connect with me on:</h3>
+<p>
   <a href="https://github.com/ayushtamra">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
   </a>
@@ -20,7 +14,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-    
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <h2 align="center">Download My resume</h2>
 <p align="center">
     <a href="Ayush Tamra Resume.pdf" download="Ayush Tamra Resume">
