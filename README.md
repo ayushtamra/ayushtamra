@@ -33,7 +33,7 @@
 
    <img src="https://github-readme-stats.vercel.app/api?username=ayushtamra&line_height=20&show_icons=true&theme=default" alt="Ayush Tamra's Github Stats" height="165" width="480"/>
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushtamra&layout=compact" alt="Ayush Tamra's Github Stats"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushtamra&layout=compact" alt="Ayush Tamra's Github Stats" height="162" width="350"/>
 </p>
 
 <!-- <p align="right">
