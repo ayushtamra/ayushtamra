@@ -52,7 +52,7 @@
 </p>
 
 <h2 align="center">🏆 My achievments</h2>
-<img align="right" src="/home/ayush/Desktop/Dev/ayushtamra/swags.gif" height="170" width="300">
+<img align="right" src="swags.gif" height="150" width="300">
 <h3 align="center">👨‍💻 Hackathons (Listed Latest at the top)</h3>
   <ul align="center">
     <li>Reached Review 2 in devsoc 2021, in top 40 teams</li>
