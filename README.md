@@ -60,6 +60,8 @@
     <li>Winner of echoAR sponsor prize at tartan hacks 2021</li>
   </ul>
 
+<br>
+
 <h2 align="center"> ⚡ Fun fact </h2>
     
 <h3 align="center"> Everyone is a newbie. So don't worry just keep patience and keep hustling</h3>
