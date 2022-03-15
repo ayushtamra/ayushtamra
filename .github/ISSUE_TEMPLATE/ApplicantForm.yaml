@@ -16,21 +16,21 @@ body:
       description: What's the event name
       placeholder: ex. Chaoss conferrence
     validations:
-      required: false
+      required: "false"
   - type: input
     id: WebsiteLink
     attributes:
       label: Link to the website
       description: Enter the link of the event website
     validations:
-      required: true
+      required: "true"
   - type: dropdown
     id: isEventOrganiser
     attributes:
       label: Are you an event organizer?
       description: Select Yes/No
       options:
-        - Yes
-        - No
+        - "Yes"
+        - "No"
     validations:
-      required: true
+      required: true"
