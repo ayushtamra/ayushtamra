@@ -1,11 +1,14 @@
-# Hello there, fellow developers! 👋
+## Hello there, fellow developers! 👋
+\
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p>My name is Ayush, and I am a undergraduate student from India, I love to learn new technologies and collaborate with people. So where you can see this huge programming, exploration and collaboration? opensource right? I am very passionate about opensource and I love the way how opensource is providing huge opportunities for new developers</p>
-<p>
-  I am learning a lot new things in the tech and my interests incline towards web development and machine learning</p>
+<p>My name is Ayush, and I am a pre-final year undergraduate student from India. I love to learn new technologies and collaborate with people in tech. I am currently working on some opensource projects</p>
 
-> <h3>Connect with me on:</h3>
+<p> I am learning a lot new things in the tech and my interests incline towards web development and machine learning</p>
+
+<br>
+
+<h3>Connect with me on:</h3>
 <p>
   <a href="https://github.com/ayushtamra">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
