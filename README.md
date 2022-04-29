@@ -6,9 +6,8 @@
 
 <p> I am learning a lot new things in the tech and my interests incline towards web development and machine learning</p>
 
-<br>
 
-<h3>Connect with me on:</h3>
+> <h3>Connect with me on:</h3>
 <p>
   <a href="https://github.com/ayushtamra">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
