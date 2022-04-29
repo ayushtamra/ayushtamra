@@ -4,7 +4,8 @@
 <p>My name is Ayush, and I am a undergraduate student from India, I love to learn new technologies and collaborate with people. So where you can see this huge programming, exploration and collaboration? opensource right? I am very passionate about opensource and I love the way how opensource is providing huge opportunities for new developers</p>
 <p>
   I am learning a lot new things in the tech and my interests incline towards web development and machine learning</p>
-<h3>Connect with me on:</h3>
+
+> <h3>Connect with me on:</h3>
 <p>
   <a href="https://github.com/ayushtamra">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
@@ -19,13 +20,26 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h2 align="center">Download My resume</h2>
+<!-- <h2 align="center">Download My resume</h2>
 <p align="center">
     <a href="Ayush Tamra Resume.pdf" download="Ayush Tamra Resume">
         <img src="https://img.shields.io/badge/Ayush's-Resume-brightgreen"/>
     </a>
-</p>
+</p> -->
 
+## > Experience 
+ - [Chaoss](https://chaoss.community/) - Present
+    - Chaoss is an opensource organization is one of the Linux foundation projects
+    - I am an opensource contributor here, and I am currently working on the [badging bot project](https://github.com/badging/badging-bot) under badging initiative by the organization.
+    - I love partcipating in technical and non-technical events organized here
+
+<br>
+
+ - [RRCAT](https://www.rrcat.gov.in/index_eng.html) - September to November 2021
+    - RRCAT is a unit of department of Atomic energy, Government of India
+    - I worked here on a project as a summer intern
+    - Project description: Developement of Software for three electrodes based electron beam position calculation using artificial neural network.
+    - My complete certificate and LOR, can be found [here](https://drive.google.com/drive/folders/1I6FldO3LAu-j8NcM8VPc0DgVJnPVRzA3?usp=sharing)
 
 <h2 align="center">My Github stats</h2>
 <p>
