@@ -30,9 +30,11 @@
 </p> -->
 
 ## > Experience 
- - [Chaoss](https://chaoss.community/) - Present
-    - Chaoss is an opensource organization is one of the Linux foundation projects
-    - I am an opensource contributor here, and I am currently working on the [badging bot project](https://github.com/badging/badging-bot) under badging initiative by the organization.
+ - [CHAOSS](https://chaoss.community/) - Present
+    - CHAOSS is an opensource organization, is one of the Linux foundation projects which is focused on creating
+analytics and metrics to help define community health.
+    - I am currently maintaining the [badging bot project](https://github.com/badging/badging-bot) which is a part of the DEI badging initiative by CHAOSS.
+    - I am also contributing in software project Augur.
     - I love partcipating in technical and non-technical events organized here
 
 <br>
