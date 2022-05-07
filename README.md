@@ -74,6 +74,7 @@ analytics and metrics to help define community health.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 
+
 <h2 align="center">🏆 My achievments</h2>
 <img align="right" src="swags.gif" height="150" width="300">
 <h3 align="center">👨‍💻 Hackathons (Listed Latest at the top)</h3>
@@ -85,8 +86,8 @@ analytics and metrics to help define community health.
 
 <br>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 
-<h2 align="center"> ⚡ Fun fact </h2>
+
+<!-- <h2 align="center"> ⚡ Fun fact </h2>
     
-<h3 align="center"> Everyone is a newbie. So don't worry just keep patience and keep hustling</h3>
+<h3 align="center"> Everyone is a newbie. So don't worry just keep patience and keep hustling</h3> -->
