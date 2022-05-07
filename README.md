@@ -43,14 +43,13 @@
     - Project description: Developement of Software for three electrodes based electron beam position calculation using artificial neural network.
     - My complete certificate and LOR, can be found [here](https://drive.google.com/drive/folders/1I6FldO3LAu-j8NcM8VPc0DgVJnPVRzA3?usp=sharing)
 
-<h2 align="center">My Github stats</h2>
-<p>
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=ayushtamra&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ayush Tamra's Github Stats"/> -->
+<!-- <h2 align="center">My Github stats</h2> -->
 
+<!-- <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=ayushtamra&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ayush Tamra's Github Stats"/>
    <img src="https://github-readme-stats.vercel.app/api?username=ayushtamra&line_height=20&show_icons=true&theme=default" alt="Ayush Tamra's Github Stats" height="165" width="480"/>
-
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushtamra&layout=compact" alt="Ayush Tamra's Github Stats" height="162" width="350"/>
-</p>
+</p> -->
 
 <!-- <p align="right">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Ayush Tamra's Github Stats"/>
@@ -61,11 +60,15 @@
 </p> -->
 
 
-<h2 align="center">My Devpost achievments</h2>
+<!-- <h2 align="center">My Devpost achievments</h2>
 
-<p align="center">
-  <img src="https://idemoed.vercel.app/api/wall?username=tamraayush&level=2"/>
-</p>
+<p>
+  <img src="https://idemoed.vercel.app/api/wall?events=winhacks-2021&type=png"/><br>
+  <a href="">Winhacks2021</a>
+
+  <img src="https://idemoed.vercel.app/api/wall?events=winhacks-2021&type=png"/><br>
+  <a href="">Winhacks2021</a>
+</p> -->
 
 <h2 align="center">🏆 My achievments</h2>
 <img align="right" src="swags.gif" height="150" width="300">
