@@ -4,6 +4,7 @@
 
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 
+<br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=My+name+is+Ayush!;I+am+a+Full+stack+web+developer;Contributing+to+opensource"></a>
 </p>
@@ -19,10 +20,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+
+
+<img align='right' src="https://user-images.githubusercontent.com/39908472/147855320-9b7143fc-d931-4810-b16f-174cd761f993.png" height="200" width="200">
 <br />
-
-
-
+<br />
+<br />
 
 
 <p>My name is Ayush, and I am a pre-final year undergraduate student from India. I love to learn new technologies and collaborate with people in tech. I take great care in the experience, architecture, and code quality of the things I build. I am currently working on some opensource projects</p>
