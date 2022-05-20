@@ -1,14 +1,14 @@
-## Hello there, fellow developers! 👋
-\
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h1 align='center'>
+  Hello there fellow developers👨🏻‍💻
+</h1>
 
-<p>My name is Ayush, and I am a pre-final year undergraduate student from India. I love to learn new technologies and collaborate with people in tech. I am currently working on some opensource projects</p>
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 
-<p> I am learning a lot new things in the tech and my interests incline towards web development and machine learning</p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=My+name+is+Ayush!;I+am+a+Full+stack+web+developer;Contributing+to+opensource"></a>
+</p>
 
-
-> <h3>Connect with me on:</h3>
-<p>
+<p align="center">
   <a href="https://github.com/ayushtamra">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
   </a>
@@ -19,6 +19,17 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+<br />
+
+
+
+
+
+<p>My name is Ayush, and I am a pre-final year undergraduate student from India. I love to learn new technologies and collaborate with people in tech. I take great care in the experience, architecture, and code quality of the things I build. I am currently working on some opensource projects</p>
+
+<b>A passionate self-taught full stack developer</b>
+
+
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -72,7 +83,7 @@ analytics and metrics to help define community health.
   <a href="">Winhacks2021</a>
 </p> -->
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
+
 
 
 <!-- <h2 align="center">🏆 My achievments</h2> -->
