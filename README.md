@@ -92,7 +92,10 @@ analytics and metrics to help define community health.
 
 <!-- <h2 align="center">🏆 My achievments</h2> -->
 ## > My achievements🏆
-<img align="right" src="swags.gif" height="150" width="300">
+<br>
+<p align="center">
+  <img src="swags.gif" height="150" width="300">
+</p>
 <h3 align="center">👨‍💻 Hackathons (Listed Latest at the top)</h3>
   <ul align="center">
     <li>Reached Review 2 in devsoc 2021, in top 40 teams</li>
