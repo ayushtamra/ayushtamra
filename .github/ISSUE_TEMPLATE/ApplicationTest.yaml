@@ -1,0 +1,70 @@
+name: DEI Applicant form for Project
+description:  Thanks for taking the time to fill out the DEI badging application.
+title: "[Project-Application] "
+labels: ["under-review"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: "# Project Submission"
+  - type: markdown
+    attributes:
+      value: "## Requirements"
+
+  - type: input
+    id: Eventname
+    attributes:
+      label: Link to the project's repository
+      description: Enter the link of the project repository
+    validations:
+      required: false
+
+  - type: input
+    id: Eventname
+    attributes:
+      label: Link to the project's documentation
+      description: Enter the link of the project documentation
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: "### Provide a link to the following files from your project's repository"
+
+  - type: input
+    id: Eventname
+    attributes:
+      label: Link to the project's documentation
+      description: Enter the link of the project documentation
+    validations:
+      required: false
+
+  - type: input
+    id: License
+    attributes:
+      label: License link
+    validations:
+      required: false
+
+  - type: input
+    id: READMELink
+    attributes:
+      label: README link
+    validations:
+      required: false
+
+  - type: input
+    id: ContribGuide
+    attributes:
+      label: Contributing guidelines
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: "## Communication channels"
+
+  - type: markdown
+    attributes:
+      value: "- [x] This event commits to Event Diversity and Inclusion."
