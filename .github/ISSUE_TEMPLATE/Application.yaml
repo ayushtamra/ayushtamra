@@ -31,7 +31,12 @@ body:
 
   - type: markdown
     attributes:
-      value: "<br /> ### Provide a link to the following files from your project's repository:"
+      value: "<br />"
+
+
+  - type: markdown
+    attributes:
+      value: "### Provide a link to the following files from your project's repository:"
 
   - type: input
     id: LicenseLink
@@ -56,6 +61,10 @@ body:
 
   - type: markdown
     attributes:
+      value: "<br />"
+
+  - type: markdown
+    attributes:
       value: "## Communication channels"
 
   - type: input
@@ -71,6 +80,10 @@ body:
       label: Q. What efforts are made by the project community to make the communication channel inclusive?
     validations:
       required: true
+
+  - type: markdown
+    attributes:
+      value: "<br />"
 
   - type: markdown
     attributes:
@@ -92,6 +105,10 @@ body:
 
   - type: markdown
     attributes:
+      value: "<br />"
+
+  - type: markdown
+    attributes:
       value: "## Response Times & Quality"
 
   - type: input
@@ -107,6 +124,10 @@ body:
       label: Q. If the previous answer is yes, what is the process for collecting and dissiminating this data?
     validations:
       required: true
+
+  - type: markdown
+    attributes:
+      value: "<br />"
 
   - type: markdown
     attributes:
@@ -133,6 +154,9 @@ body:
     validations:
       required: true
 
+  - type: markdown
+    attributes:
+      value: "<br />"
 
   - type: markdown
     attributes:
