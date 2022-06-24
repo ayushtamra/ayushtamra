@@ -115,13 +115,13 @@ analytics and metrics to help define community health.
 ## > My recent activity - This is Automated through workflows🤖
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#34447](https://github.com/kubernetes/website/issues/34447) in [kubernetes/website](https://github.com/kubernetes/website)
-2. ❗️ Opened issue [#22](https://github.com/badging/badging-bot/issues/22) in [badging/badging-bot](https://github.com/badging/badging-bot)
-3. 🗣 Commented on [#19](https://github.com/badging/badging-bot/issues/19) in [badging/badging-bot](https://github.com/badging/badging-bot)
-4. 🗣 Commented on [#33511](https://github.com/kubernetes/website/issues/33511) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#13](https://github.com/badging/project-diversity-and-inclusion/issues/13) in [badging/project-diversity-and-inclusion](https://github.com/badging/project-diversity-and-inclusion)
-6. 💪 Opened PR [#14](https://github.com/badging/project-diversity-and-inclusion/pull/14) in [badging/project-diversity-and-inclusion](https://github.com/badging/project-diversity-and-inclusion)
-7. 🗣 Commented on [#13](https://github.com/badging/project-diversity-and-inclusion/issues/13) in [badging/project-diversity-and-inclusion](https://github.com/badging/project-diversity-and-inclusion)
-8. ❗️ Opened issue [#3](https://github.com/ayushtamra/project-diversity-and-inclusion/issues/3) in [ayushtamra/project-diversity-and-inclusion](https://github.com/ayushtamra/project-diversity-and-inclusion)
-9. 💪 Opened PR [#13](https://github.com/badging/project-diversity-and-inclusion/pull/13) in [badging/project-diversity-and-inclusion](https://github.com/badging/project-diversity-and-inclusion)
-10. ❗️ Opened issue [#2](https://github.com/ayushtamra/project-diversity-and-inclusion/issues/2) in [ayushtamra/project-diversity-and-inclusion](https://github.com/ayushtamra/project-diversity-and-inclusion)
+2. 🗣 Commented on [#34447](https://github.com/kubernetes/website/issues/34447) in [kubernetes/website](https://github.com/kubernetes/website)
+3. ❗️ Opened issue [#22](https://github.com/badging/badging-bot/issues/22) in [badging/badging-bot](https://github.com/badging/badging-bot)
+4. 🗣 Commented on [#19](https://github.com/badging/badging-bot/issues/19) in [badging/badging-bot](https://github.com/badging/badging-bot)
+5. 🗣 Commented on [#33511](https://github.com/kubernetes/website/issues/33511) in [kubernetes/website](https://github.com/kubernetes/website)
+6. 🗣 Commented on [#13](https://github.com/badging/project-diversity-and-inclusion/issues/13) in [badging/project-diversity-and-inclusion](https://github.com/badging/project-diversity-and-inclusion)
+7. 💪 Opened PR [#14](https://github.com/badging/project-diversity-and-inclusion/pull/14) in [badging/project-diversity-and-inclusion](https://github.com/badging/project-diversity-and-inclusion)
+8. 🗣 Commented on [#13](https://github.com/badging/project-diversity-and-inclusion/issues/13) in [badging/project-diversity-and-inclusion](https://github.com/badging/project-diversity-and-inclusion)
+9. ❗️ Opened issue [#3](https://github.com/ayushtamra/project-diversity-and-inclusion/issues/3) in [ayushtamra/project-diversity-and-inclusion](https://github.com/ayushtamra/project-diversity-and-inclusion)
+10. 💪 Opened PR [#13](https://github.com/badging/project-diversity-and-inclusion/pull/13) in [badging/project-diversity-and-inclusion](https://github.com/badging/project-diversity-and-inclusion)
 <!--END_SECTION:activity-->
