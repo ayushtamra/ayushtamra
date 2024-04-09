@@ -10,9 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ayushtamra">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
-  </a>
   <a href="http://twitter.com/ayush_tamra">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
@@ -29,7 +26,7 @@
 <br />
 
 
-<p>My name is Ayush, and I am a pre-final year undergraduate student from India. I love to learn new technologies and collaborate with people in tech. I take great care in the experience, architecture, and code quality of the things I build. I am currently working on some opensource projects</p>
+<p>My name is Ayush, and I am a software engineer from India. I love to learn new technologies and collaborate with people in tech. I take great care in the experience, architecture, and code quality of the things I build. I am currently working on some opensource projects</p>
 
 <b>A passionate self-taught full stack developer</b>
 
@@ -45,7 +42,11 @@
 </p> -->
 
 ## > Experience 
- - [CHAOSS](https://chaoss.community/) - Present
+
+ - [Amadeus software labs](https://amadeus.com/) - Present
+    - I am working as a software engineer at Amadeus software labs.
+
+ - [CHAOSS](https://chaoss.community/) - 2022
     - CHAOSS is an opensource organization, is one of the Linux foundation projects which is focused on creating
 analytics and metrics to help define community health.
     - I am currently maintaining the [badging bot project](https://github.com/badging/badging-bot) which is a part of the DEI badging initiative by CHAOSS.
